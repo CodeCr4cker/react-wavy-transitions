@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-wavy-transitions/static/css/main.ea0fd7df.css",
+    "main.js": "/react-wavy-transitions/static/js/main.7ddacbff.js",
+    "index.html": "/react-wavy-transitions/index.html",
+    "main.ea0fd7df.css.map": "/react-wavy-transitions/static/css/main.ea0fd7df.css.map",
+    "main.7ddacbff.js.map": "/react-wavy-transitions/static/js/main.7ddacbff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea0fd7df.css",
+    "static/js/main.7ddacbff.js"
+  ]
+}
