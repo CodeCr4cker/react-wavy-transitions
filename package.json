@@ -2,6 +2,7 @@
   "name": "react-wavy-transitions",
   "version": "0.1.0",
   "private": true,
+    "homepage": "https://codecr4cker.github.io/react-wavy-transitions",
   "dependencies": {
     "@types/node": "^16.11.64",
     "@types/react": "^18.0.21",
@@ -16,7 +17,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
